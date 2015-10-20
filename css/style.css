@@ -15,33 +15,33 @@ html, body{
 }
 
 #lion{
-    background-color:orange;
+    background: linear-gradient(white, yellow);
 }
 
 #cow{
-    background-color:white;
+    background: linear-gradient(white, grey);
 }
 
 #cat{
-    background-color:grey;
+    background: linear-gradient(white, orange);
 }
 
 #dog{
-    background-color:maroon;
+    background: linear-gradient(white, saddlebrown);
 }
 
 #horse{
-    background-color:brown;
+    background: linear-gradient(white, brown);
 }
 
 #bird{
-    background-color:blue;
+    background: linear-gradient(white, powderblue);
 }
 
 #pig{
-    background-color:pink;
+    background: linear-gradient(white, pink);
 }
 
 #chicken{
-    background-color:yellow;
+    background: linear-gradient(white, peru);
 }
