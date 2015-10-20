@@ -1,0 +1,47 @@
+html, body{
+    height:100%;
+}
+
+.piano-set{
+    height:50%;
+}
+
+.piano-key{
+    height:100%;
+    border: 1px solid black;
+    font-family: 'Gochi Hand', cursive;
+    font-size:50px;
+    text-align:center;
+}
+
+#lion{
+    background-color:orange;
+}
+
+#cow{
+    background-color:white;
+}
+
+#cat{
+    background-color:grey;
+}
+
+#dog{
+    background-color:maroon;
+}
+
+#horse{
+    background-color:brown;
+}
+
+#bird{
+    background-color:blue;
+}
+
+#pig{
+    background-color:pink;
+}
+
+#chicken{
+    background-color:yellow;
+}
